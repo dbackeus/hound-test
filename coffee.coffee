@@ -1,3 +1,3 @@
 class Hound
   method: ->
-    'hello'
+    "hello world"
