@@ -1,0 +1,3 @@
+class Hound
+  hello: ->
+    "hello";
